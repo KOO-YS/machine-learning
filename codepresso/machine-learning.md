@@ -28,7 +28,7 @@
 
 
 
-##### 지도 학습(Supervised Learning)
+#### 지도 학습(Supervised Learning)
 
 - 입력값에 대한 정답을 예측
 
@@ -40,8 +40,11 @@
 
   
 
-1. 분류(Classification)
-2. 회귀(Regression)
+1. ##### 분류(Classification)
+
+   - 
+
+2. ##### 회귀(Regression)
 
 
 
