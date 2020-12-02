@@ -17,4 +17,4 @@
 
 ### 단기 특강
 
-##### [AI/ML 기초 역량 교육](/tree/master/codepresso)
+##### [AI/ML 기초 역량 교육](tree/master/codepresso)
